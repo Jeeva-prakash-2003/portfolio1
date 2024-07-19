@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+.nav-logo {
+    height: 50px;
+    border-radius: 50%;
+}
+.body {
+    
+    /*background-image: url(https://rare-gallery.com/uploads/posts/577352-nature-wallpaper.jpg);*/
+    background-image: url(http://wallsdesk.com/wp-content/uploads/2016/09/Space-HD.jpg);
+}
+.item-nav {
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+.item-nav:hover {
+    color: rgb(34, 241, 34);
+}
+.action {
+    font-size: 18px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 330%;
+}
+.body-sec {
+    height: 85vh;
+    
+}
+.col-left {
+   
+    color: white;
+    height: 50px;
+    font-family: "Roboto", sans-serif;
+    text-align: right;
+    padding-left: 230px;
+}
+
+    
+ 
+
+img {
+        border-radius: 50%;
+        
+}
+.h2 {
+    font-family: "Oswald", sans-serif;
+    font-size: large;
+}
+.what-h1 {
+    color: white;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-size: 40px;
+}
+.what-p {
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-size: 19px;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.card {
+    background-color: transparent;
+    color: white;
+    border: 2px white solid;
+    padding: 20px;
+}
+.card-h1 {
+    padding-top: 20px;
+    text-align: center;
+}
+.card-p {
+    text-align: center;
+    font-size: 19px;
+    font-family: "Oswald", sans-serif;
+}
+.social-img {
+    height: 50px;
+    padding: 8px;
+    
+}
+.social-icons {
+    text-align: center;
+}
